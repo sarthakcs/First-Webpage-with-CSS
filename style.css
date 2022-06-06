@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+    margin: 0 0;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    
+}
+.top{
+    background: linear-gradient(#0b4d57,#49f25a);
+    /* margin-top: auto; */
+    
+    
+}
+h1{
+    margin: 0 auto;
+    font-family: 'Cookie', cursive;
+    padding: 2.5rem;
+    height: 2.5rem;
+    font-size: 3rem;
+}
+p{
+    margin: 0 auto;
+    
+}
+.upcloud{
+    position: absolute;
+    right: 10rem;
+    top: 4rem;
+}
+.downcloud{
+    position: absolute;
+    top: 9rem;
+}
+.sun{
+    position: absolute;
+    width: 6rem;
+    left: 9rem;
+    top: 3rem;
+}
+.hiker{
+    position: absolute;
+    width: 5rem;
+    left: 11rem;
+    bottom: 6.5rem;
+}
+h2{
+    margin: 0 auto;
+    height: 60px;
+}
+h3{
+    margin: 0 auto;
+    height: 50px;
+}
+
+.centerbody{
+    background-image: url(waves.png);
+    background-repeat: no-repeat;
+    
+}
+.downbody{
+    background-image: url(waves.png);
+    background-repeat: no-repeat;
+}
+.middle{
+    
+}
+.code-img{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+.cook{
+    width: 33%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row-up{
+    width: 60%;
+    margin: auto;
+    text-align: left;
+    padding-top: 20px;
+}
+.skill-row-down{
+    width: 60%;
+    margin: 100px auto;
+    padding-bottom: 100px;
+    text-align: left;
+}
+.profile{
+    width: 47%;
+    margin: auto;
+    padding: 20px;
+}
+hr {
+    border-style: dotted none none;
+    height: 0px;
+    border-color: rgb(8, 133, 60);
+    border-width: 6px;
+    margin: 80px auto;
+    width: 10%;
+}
+.button{
+    margin: 50px;
+}
+a{
+    text-decoration: none;
+    color: rgb(231, 246, 254);
+    margin: 40px;
+    padding: 20px;
+}
+.btn{
+    background-color: rgb(115, 172, 112);
+    padding: 10px;
+    border: solid 2px;
+    border-radius: 20px;
+    
+    
+}
+.bottom{
+    background-color: rgb(81, 117, 81);
+    padding: 20px;
+}
